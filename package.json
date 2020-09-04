@@ -13,7 +13,7 @@
     "lodash.isempty": "^4.4.0",
     "lodash.keys": "^4.2.0",
     "lodash.merge": "^4.6.0",
-    "lodash.mergewith": "^4.6.0",
+    "lodash.mergewith": "^4.6.2",
     "lodash.remove": "^4.7.0",
     "lodash.sortby": "^4.7.0",
     "lodash.values": "^4.3.0",
